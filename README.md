@@ -1,6 +1,6 @@
 # Docker presentation poster
 This github repository contains all the DTP design source files & documentation sources.
-
+![poster](Affiche_docker.png)
 # Sources
 ## Website
 - [what-container](https://www.docker.com/resources/what-container/)
