@@ -5,4 +5,4 @@ This github repository contains all the DTP design source files & documentation 
 ## Website
 - 
 ## Videos
-- [Cookie connecté]("https://www.youtube.com/watch?v=caXHwYC3tq8")
+- [Cookie connecté](https://www.youtube.com/watch?v=caXHwYC3tq8)
