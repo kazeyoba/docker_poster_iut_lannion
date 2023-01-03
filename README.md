@@ -12,7 +12,6 @@ This github repository contains all the DTP design source files & documentation 
 - Alstom Docker training not public
 - [Wikipedia - Cgroups](Cgroups)
 - [Linux Embedded - Namespaces : La brique de base des conteneurs](https://linuxembedded.fr/2020/11/namespaces-la-brique-de-base-des-conteneurs)
-- []()
 ## Videos
 - [Cookie connecté - comprendre l'essentiel en 7 minutes](https://www.youtube.com/watch?v=caXHwYC3tq8)
 - [Cookie connecté - Kubernetes : l'essentiel en 7 minutes](https://www.youtube.com/watch?v=NChhdOZV4sY)
@@ -30,5 +29,5 @@ This github repository contains all the DTP design source files & documentation 
 **Under creative commons license with author citation & non-commercialization.**
 
 # Contacts
-timai.selmi-giemza@etudiant.univ-rennes1.fr
-mathias.mainois@etudiant.univ-rennes1.fr
+- timai.selmi-giemza@etudiant.univ-rennes1.fr
+- mathias.mainois@etudiant.univ-rennes1.fr
