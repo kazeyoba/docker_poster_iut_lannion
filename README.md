@@ -28,3 +28,7 @@ This github repository contains all the DTP design source files & documentation 
 - [Google Fonts](https://fonts.google.com/)
 
 **Under creative commons license with author citation & non-commercialization.**
+
+# Contacts
+timai.selmi-giemza@etudiant.univ-rennes1.fr
+mathias.mainois@etudiant.univ-rennes1.fr
